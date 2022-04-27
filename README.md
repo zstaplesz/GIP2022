@@ -9,7 +9,9 @@ required to be opened. The user can choose between the 3 samples by uncommenting
 must be uncommented at any time. Music samples can be found on freesound.org and are as follows in the order of name used in investigation, name of sample on freesound.org, and artist (user):
 
 '_Piano_1.wav', Piano,	Bradovic
+
 '_Drum_1.wav', hip hop drum beat.wav, Simon_Lacelle
+
 '_Full_Song_2_Cut.wav', Rock music.wav, Jibey-
 
 The algorithm script contains all 3 threshold detection methods. Optimal is active by default, but the general or auto-threshold method
