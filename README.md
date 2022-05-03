@@ -20,3 +20,4 @@ can be activated by uncommenting lines 73 and 74 respectively.
 The beat detection can function without a connected Arduino with no changes, but the required code is present within the Python file and as an Arduino
 script ('BeatDetectionArduino') to run the entire beat detection device if the resources outlined in the report are present.
 
+Arduino code is adapted from http://www.meccanismocomplesso.org/en/tutorial-sending-values-from-pc-to-arduino-by-serial-communication/ 
